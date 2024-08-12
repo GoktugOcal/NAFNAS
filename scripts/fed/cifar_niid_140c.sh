@@ -1,0 +1,1 @@
+python generate_cifar10.py -dir ./data/Cifar10_NIID_a001_140c/ -nc 140 -c 10 -niid noniid -b - -p dir -a 0.01

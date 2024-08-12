@@ -1,0 +1,1 @@
+python generate_mnist.py -dir ./data/MNIST_NIID_a05_200c/ -nc 200 -c 10 -niid noniid -b - -p dir

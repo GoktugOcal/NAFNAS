@@ -1,0 +1,1 @@
+python generate_celeba.py -nc 10 -c 10 -niid noniid -b - -p dir

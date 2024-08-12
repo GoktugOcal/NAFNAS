@@ -1,0 +1,9 @@
+models/alexnet/fed/**
+models/alexnet/test/**
+models/alexnet/**
+models/mobilenet/**
+data/cifar-10-batches-py
+data/Celeba
+data/timagenet
+data/**
+projects/**

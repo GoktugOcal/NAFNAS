@@ -1,0 +1,10 @@
+/flowers/data/
+/models/alexnet/
+/models/helloworld/
+/models/mobilenet/
+/temp_models/*
+/data/
+/projects/*
+*.pyc
+/flwr/
+/wandb/*
